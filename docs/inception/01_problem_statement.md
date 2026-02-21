@@ -14,7 +14,7 @@
 
 ## 1. Current Situation
 
-[Pharmacy Name] is a community pharmacy currently operating with:
+Some Pharmacies are currently operating with:
 - **Manual cash register** with no integration to inventory
 - **Paper-based prescription records** stored in filing cabinets
 - **Hand-counted inventory** with periodic physical counts
@@ -81,3 +81,4 @@ A dedicated Pharmacy Point of Sale system would:
 |---------|------|--------|---------|
 
 | 1.0 | 19-02-2026 | Enos | Initial version |
+
