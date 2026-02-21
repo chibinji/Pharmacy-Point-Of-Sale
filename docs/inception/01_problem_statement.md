@@ -79,4 +79,5 @@ A dedicated Pharmacy Point of Sale system would:
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | 19-02-2026 | Ruth | Initial version |
+
+| 1.0 | 19-02-2026 | Enos | Initial version |
