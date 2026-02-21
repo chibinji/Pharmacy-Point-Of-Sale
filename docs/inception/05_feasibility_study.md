@@ -40,7 +40,10 @@ This study assesses the feasibility of developing a custom Pharmacy Point of Sal
 | **Real-time inventory updates** | Database transactions; optimistic locking | ✅ High |
 | **Offline capability** | Local storage; sync when online | ⚠ Medium |
 
+<!--
+
 ### 2.3 Team Technical Skills
+THE SKILLS HAVE TO BE LISTED
 
 | Team Member | Skills | Gaps |
 |-------------|--------|------|
@@ -51,6 +54,7 @@ This study assesses the feasibility of developing a custom Pharmacy Point of Sal
 | **Enos** | [List skills] | [List gaps] |
 
 **Conclusion:** ✅ **Technically Feasible** - Technologies exist and are accessible
+-->
 
 ---
 
@@ -92,11 +96,11 @@ This study assesses the feasibility of developing a custom Pharmacy Point of Sal
 
 | Cost Category | Estimated Cost | Notes |
 |--------------|----------------|-------|
-| **Software** | $0 | Open-source tools |
-| **Hardware** | $0 (existing) | Using current equipment |
+| **Software** | K0 | Open-source tools |
+| **Hardware** | K0 (existing) | Using current equipment |
 | **Team effort** | 15 weeks × 5 people | Academic project |
-| **Training** | $0 | In-house |
-| **Total** | **$0 direct costs** | No budget required |
+| **Training** | K0 | In-house |
+| **Total** | **K0 direct costs** | No budget required |
 
 
 
@@ -191,4 +195,5 @@ The Pharmacy POS system project is feasible across all dimensions. The main area
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
+
 | 1.0 | 19-02-2026 | Idah | Initial feasibility study |
