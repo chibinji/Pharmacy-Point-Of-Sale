@@ -9,10 +9,10 @@
 | Name | GitHub Username |
 |------|-----------------|
 | Samuel Chibinji Mwanza | chibinji |
-| Ruth Kamwendo | |
-| Idah Mumbi | |
-| Nixon Shibuchi | |
-| Enos Malunga | |
+| Ruth Kamwendo | kamwendoruth16 |
+| Idah Mumbi | idahmumbi16-max|
+| Nixon Shibuchi | nixon-shibuchi|
+| Enos Malunga | enosmalunga |
 
 ---
 
